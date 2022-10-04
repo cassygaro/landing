@@ -1,0 +1,106 @@
+/* Write some CSS below */
+h1{ 
+	color: white;
+	text-align: center;
+}
+h2{ 
+	color: lightgrey;
+	text-align: justify-all;
+	}
+h3{ 
+	color: black;
+	text-align: justify-all;
+	}
+	
+
+
+div{margin: 30px;
+	border: 20px solid lightgrey;
+	border-radius: 10%;
+}
+
+body {
+  font-family:initial;
+  color:lightpink;
+  font-size: 18px;
+  background-color: white;
+  margin: 0;
+}
+
+
+
+
+a {
+  color:ghostwhite;
+  font-weight:bold ;
+  text-decoration: none;
+  transition: .3s;padding: 15px 30px;
+  background-color: hotpink;
+
+}
+
+a:hover {
+  color:red;
+
+}
+
+.conteiner {
+	margin: auto;
+
+	}
+
+
+.btn-blue {
+	background-color: hotpink;
+	color: darkred;
+	padding: 16px 48px;
+	border-radius: 10px 25%;
+	display: inline-block;
+	text-decoration: none;
+	transition: 4s;
+	text-align: center;
+	}
+
+.btn-blue:hover {
+	background-color: hotpink;
+	color: darkred;
+}
+
+#banner {
+	background-image: url(images/background.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 150px 0;
+  text-align: center;
+  }	
+
+ #Numero1 {
+  	background:white ;
+  	box-shadow: 0 0 0 16px ;
+  	border-radius: 4px;
+  	text-align: justify;
+  }	
+
+ #Numero2 {
+  background:white ;
+  	box-shadow: 0 0 0 16px ;
+  	border-radius: 4px;
+  	text-align: justify;
+}
+#Numero3 {
+	background:white ;
+  	box-shadow: 0 0 0 16px ;
+  	border-radius: 4px;
+  	text-align: justify;
+
+  	}
+
+ .produits {
+ 	display: grid: ;
+ 	grid-template-columns: 1fr 1fr 1fr ;
+ 	grid-gap: 16px;
+} 
+
+
+
+
