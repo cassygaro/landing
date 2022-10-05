@@ -14,11 +14,6 @@ h3{
 	
 
 
-div{margin: 30px;
-	border: 20px solid lightgrey;
-	border-radius: 10%;
-}
-
 body {
   font-family:initial;
   color:lightpink;
@@ -76,28 +71,28 @@ a:hover {
 
  #Numero1 {
   	background:white ;
-  	box-shadow: 0 0 0 16px ;
+  	box-shadow: 0 0 0 16px;
   	border-radius: 4px;
   	text-align: justify;
   }	
 
  #Numero2 {
   background:white ;
-  	box-shadow: 0 0 0 16px ;
+  	box-shadow: 0 0 0 16px;
   	border-radius: 4px;
   	text-align: justify;
 }
 #Numero3 {
 	background:white ;
-  	box-shadow: 0 0 0 16px ;
+  	box-shadow: 0 0 0 16px;
   	border-radius: 4px;
   	text-align: justify;
 
   	}
 
  .produits {
- 	display: grid: ;
- 	grid-template-columns: 1fr 1fr 1fr ;
+ 	display: grid;
+ 	grid-template-columns: 1fr 1fr 1fr;
  	grid-gap: 16px;
 } 
 
